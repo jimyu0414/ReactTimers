@@ -1,9 +1,10 @@
 [
     {
-        "title": "Mow the lawn",
+        "title": "Test",
         "project": "House Chores",
-        "elapsed": 5456099,
-        "id": "0a4a79cb-b06d-4cb1-883d-549a1e3b66d7"
+        "elapsed": 5627416,
+        "id": "0a4a79cb-b06d-4cb1-883d-549a1e3b66d7",
+        "runningSince": null
     },
     {
         "title": "Clear paper jam",
