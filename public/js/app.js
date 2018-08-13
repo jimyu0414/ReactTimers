@@ -385,6 +385,7 @@ class TimerForm extends React.Component{
 								<input type='text'  
 								value={this.state.title}
 								onChange={this.handleTitleChange} 
+								autoComplete="on"
 								 />
 							</div>
 							<div className='field'>
